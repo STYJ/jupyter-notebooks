@@ -10,3 +10,7 @@
 4. Add your virtual environment to Jupyter with the command `python -m ipykernel install --user --name=venv`.
 5. Install the required packages to your env with `pip install -r requirements.txt`.
 6. Run `jupyter notebook` and open hdb_resale_price.ipynb
+
+# Where are the deployment files located?
+
+https://github.com/STYJ/hdb-resale-price-deployment-files
