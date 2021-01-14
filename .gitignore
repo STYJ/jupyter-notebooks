@@ -112,6 +112,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+geocode_venv/
 
 # Spyder project settings
 .spyderproject
